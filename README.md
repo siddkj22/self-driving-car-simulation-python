@@ -1,6 +1,7 @@
 # self-driving-car-simulation-python
 
-<img width="1465" height="836" alt="Screenshot 2026-04-01 131733" src="https://github.com/user-attachments/assets/a263d52c-a38e-48df-950b-2ea9438a5d8e" />
+<img width="1465" height="836" alt="project" src="https://github.com/user-attachments/assets/4c880ceb-cb79-4fa6-81c9-ea7a50278d02" />
+
 
 
 Implemented various sensors and car mechanics with math.
