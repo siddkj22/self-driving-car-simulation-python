@@ -1,11 +1,11 @@
 # self-driving-car-simulation-python
-self driving car silmulation in pygame 
-Implemented car physics to mimic like real world
-Working on Implementing a neural network to detect collisions. 
-Built using Python and Pygame.
+
 Implemented various sensors and car mechanics with math.
+
 Autonomous Maze-Solving Car with Reinforcement Learning
+
 A high-performance Pygame simulation featuring a car agent equipped with LIDAR-like raycasting sensors navigating through a procedurally generated or manually defined maze. 
+
 This environment is specifically designed for training Reinforcement Learning (RL) models or Genetic Algorithms (like NEAT).
 🚀 Features
 Real-Car Physics: Implements weight, friction, and momentum-based movement. The car only turns when moving, simulating real-world steering geometry.
